@@ -1,0 +1,7 @@
+#ignoramos copias de seguridad
+*~
+*.swp
+
+#ignoramos los bytecodes
+*.class
+
